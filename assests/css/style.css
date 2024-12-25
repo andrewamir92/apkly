@@ -33,9 +33,11 @@
     margin-top: 10px;
 }
 .top-menu .navbar-collapse{
+    
     margin-left: 32%;
 }
 .top-menu .navbar .active{
+
     font-size: 18px;
     font-weight: 600;  
     border-bottom: 1px solid #FB5F3A;
