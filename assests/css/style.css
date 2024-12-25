@@ -33,7 +33,6 @@
     margin-top: 10px;
 }
 .top-menu .navbar-collapse{
-
     margin-left: 32%;
 }
 .top-menu .navbar .active{
@@ -48,7 +47,6 @@
 /* start of awesome-app  */
 .awesome-app{
     padding: 170px 0 ;
-    /* height: 200px; */
     background-color: #21252E;
 }
 .awesome-app h2{
