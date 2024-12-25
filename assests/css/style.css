@@ -1,12 +1,24 @@
 /* start of top-menu  */
 .top-menu .navbar {
     background-color: #21252E!important;
-    
+    padding: 0;
 }
 .top-menu .navbar a{
     color: white!important;
     font-size: 17px;
     font-weight: 500;
+}
+.top-menu .navbar .logo{
+    color: white!important;
+    background-color: #FB5F3A;
+    height: 12%;
+    text-align: center;
+    padding: 35px 20px ;
+    font-size: 22px;
+    font-weight: 700;
+}
+.top-menu .navbar .logo:hover{
+    color: white!important;
 }
 .top-menu .navbar a:hover{
     color: #FB5F3A!important;   
@@ -21,7 +33,7 @@
     margin-top: 10px;
 }
 .top-menu .navbar-collapse{
-    margin-left: 40%;
+    margin-left: 32%;
 }
 .top-menu .navbar .active{
     font-size: 18px;
