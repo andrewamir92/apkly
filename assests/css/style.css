@@ -33,7 +33,7 @@
     margin-top: 10px;
 }
 .top-menu .navbar-collapse{
-    
+
     margin-left: 32%;
 }
 .top-menu .navbar .active{
@@ -44,3 +44,36 @@
     color: #FB5F3A!important;
 }
 /* end of top-menu  */
+
+/* start of awesome-app  */
+.awesome-app{
+    padding: 170px 0 ;
+    /* height: 200px; */
+    background-color: #21252E;
+}
+.awesome-app h2{
+    color: #FB5F3A;
+    font-size: 52px;
+    font-weight: 900;
+}
+.awesome-app h3,p{
+    color: white;
+}
+.awesome-app h3{
+    font-weight: bold;
+}
+.awesome-app .get-it-now{
+    background-color: #FB5F3A;
+    border: 1px solid #FB5F3A;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.awesome-app .get-it-now:hover{
+    background-color: #21252E;
+    color: #FB5F3A;
+    border: 1px solid #FB5F3A;
+    transition: 0.4s;
+}
+
+/* end of awesome-app  */
